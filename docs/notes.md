@@ -12,3 +12,4 @@ Notes and usage details for hermes-agency-orchestrator.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
