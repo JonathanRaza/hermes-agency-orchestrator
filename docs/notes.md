@@ -35,3 +35,4 @@ Notes and usage details for hermes-agency-orchestrator.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
